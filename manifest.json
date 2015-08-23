@@ -6,7 +6,7 @@
   "background": {
     "scripts": [
       "js/lcs.js",
-      "js/model.js",
+      "js/data.js",
       "js/ui.js",
       "js/background.js"
     ]
